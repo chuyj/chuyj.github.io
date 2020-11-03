@@ -4,46 +4,38 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yeong-Jia Roger Chu
+    tagline: Sofeware Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: roger9chu@gmail.com
+    phone: +886 989 763 560
+    website: 
+    linkedin: 
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Mandarin Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+    # interests:
+      # - item: 
+        # link:
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -54,67 +46,145 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: National Chiao Tung University
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - GPA: 4.3/4.3
+          - Total rank: 1/??
+    - degree: BSc in Computer Science
+      university: National Chiao Tung University
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - GPA: 4.1/4.3
+          - Total Rank: 1/52
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern
+      time: Oct.2018 - ?
+      company: Industrial Technology Research Institute(ITRI)
+      
+    - role: Summer Intern
+      time: Jul.2017 - Aug.2017
+      company: Industrial Technology Research Institute(ITRI)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        
+    - role: Intern
+      time: Nov.2016 - Jul.2017
+      company: Ironyun
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        
+    - role: Teaching Assistant
+      time: Sep.2018 - Feb.2019
+      company: Object Oriented Programming, Department of CS, NCTU
+  
+    - role: Teaching Assistant
+      time: Feb.2017 - Jun.2017
+      company: Object Oriented Programming, Department of CS, NCTU
+
+    - role: Teaching Assistant
+      time: Sep.2016 - Jan.2017
+      company: Introduction to Computer and Programming, Department of CS, NCTU
+
+honors:
+    - title: Invited Talk (Keynote speaker) - AWS re:Invent 2019 re:Cap
+      time: 8.Jan.2020
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Reported by [iThomes](https://www.ithome.com.tw/news/135254)
+
+
+    - title: Invented Talk - AWS DeepRacer：實戰經驗分享
+      event: DBS Bank
+      time: 21.May.2020
+
+    - title: Invented Talk - AWS DeepRacer 主題分享（下）：實戰經驗分享
+      event: Feng Chia University
+      time: 13.May.2020
+
+    - title: Third place of AWS DeepRacer Chanpionshop Cup
+      event: AWS re:Invent 2019, Las Vegas
+      time: Dec.2019
+      details: |
+        - Won 3rd place among 60+ competitors (selected among 8000+ participants)
+        - Team members: Jin-Bo Huang, Yuan-Hao Chen, Roger Chu, Tinghan Wei
+        - Featured in DeepRacer TV [re:Invent Finale Part 1](https://youtu.be/BrOEzP_hj3A?t=333), [re:Invent Finale Part 2](https://youtu.be/m1DW5Z8ohyg), [Tim 哥開箱](https://tw.news.yahoo.com/%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E5%A6%82%E4%BD%95%E6%94%B9%E8%AE%8A%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB-aws%E5%B8%B6%E4%BD%A0%E9%9B%B2%E7%AB%AF%E9%A3%86%E9%80%9F%E8%A1%9D%E8%B5%B7%E4%BE%86-052356108.html)
+        - Reported by [BUSINESS NEXT](https://www.bnext.com.tw/article/55801/aws-deepracer-2019), [TeckNews](https://technews.tw/2019/12/06/aws-deepracer-championship-cup-results-released/), [INSIDE](https://www.inside.com.tw/article/18289-Taiwan-NCTU-CGI-student-wins-AWS-DeepRacer-League-bronze-medal), [iThome](https://www.ithome.com.tw/news/135254), [COMPOTECH Asia](http://www.compotech.com.tw/a/activity_info/2019/1206/43516.html)
+
+    - title: Champion of AWS DeepRacer, Taipei Summit Curcuit
+      time: Jun.2019
+      details: |
+        - Team members: Jin-Bo Huang, Yuan-Hao Chen, Roger Chu, Tinghan Wei
+        - Reported by [iThome](https://www.ithome.com.tw/news/131268?fbclid=IwAR1ePNu6QrTpuRTe5LB1jZQ9PJBOXComfxqJGVDxwyCtKSaQqzKm9b1kLEQ), [iThome](https://www.ithome.com.tw/pr/131375)
+
+    - title: Merit Paper Award of TAAI 2017
+      event: 2017 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2017), International Track
+      time: Dec.2017
+      details: |
+        - Authors: Yeong-Jia Roger Chu, Yuan-Hao Chen, Chu-Hsuan Hsueh, I-Chen Wu 
+
+    - title: Gold Medal of Einstein Würfelt Nicht!
+      event: 22nd ICGA Computer Olympiad
+      time: Aug.2019
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+
+    - title: Gold Medal of Einstein Würfelt Nicht!
+      event: 21st ICGA Computer Olympiad
+      time: Jul.2018
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+    - title: Gold Medal of Einstein Würfelt Nicht!
+      event: 20th ICGA Computer Olympiad
+      time: 2017
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+
+    - title: Silver Medal of Einstein Würfelt Nicht!
+      event: Taiwan Computer Game Association Cup 2017
+      time: 2017
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+
+    - title: Bronze Medal of Einstein Würfelt Nicht!
+      event: TAAI Computer Game Cup 2018
+      time: 2018
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+
+    - title: Bronze Medal of Einstein Würfelt Nicht!
+      event: TAAI Computer Game Cup 2017
+      time: 2017
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+
+    - title: The High Distinction Award - Capstone Project Competition, NCTU
+      event: 
+      time: 2017
+      details: |
+        - Team members: Yuan-Hao Chen, Roger Chu
+      
+    - title: Shun-Yi Chu ZYXEL scholarship
+      event: 
+      time: 2017
+        
+    - title: Core Curriculum Scholarship (Introduction to Operating System), NCTU
+      event: 
+      time: 2016
+    
+    - title: Academic Award - Second semester of 2016 academic year
+      event: 
+      time: 2016
+
+    - title: Academic Award - First semester of 2016 academic year
+      event: 
+      time: 2016
+    
+    - title: Academic Award - Second semester of 2015 academic year
+      event: 
+      time: 2015
+
 projects:
     title: Projects
     intro: >
@@ -145,46 +215,44 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Sim-To-Real Transfer for Autonomous Miniature Car Racing
+        link: https://wp.nyu.edu/workshopiros2020plc/
+        authors: Yeong-Jia Roger Chu, Tinghan Wei, Jin-Bo Huang, Yuan-Hao Chen, I-Chen Wu
+        conference: Workshop on Perception, Learning, and Control for Autonomous Agile Vehicles, in the Intnerational Conference on Intelligent Robots and Systems (IROS), October 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: An Agent That Plays EinStein Würfelt Nicht!
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Yeong-Jia Roger Chu, Yuan-Hao Chen, Chu-Hsuan Hsueh, I-Chen Wu
+        conference: 2017 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2017), International Track
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C / C++ / OOP
+        level: 90%
+        
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Network Programming
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Pytorch / Tensorflow
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Unix-like system operation
+        level: 80%
+        
+      - name: HTML / Javascript / CSS
+        level: 75%
+
+      - name: Git
+        level: 70%
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
