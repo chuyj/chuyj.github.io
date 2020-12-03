@@ -53,7 +53,6 @@ education:
       time: 2018 - 2020
       details: |
           - GPA: 4.3/4.3
-          - Total rank: 1/??
     - degree: BSc in Computer Science
       university: National Chiao Tung University
       time: 2014 - 2018
@@ -63,7 +62,7 @@ education:
 
 experiences:
     - role: Intern
-      time: Oct.2018 - ?
+      time: Dec.2018 - Dec.2019
       company: Industrial Technology Research Institute(ITRI)
       
     - role: Summer Intern
